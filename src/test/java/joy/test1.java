@@ -1,13 +1,10 @@
 package joy;
 
-import org.testng.annotations.Test;
+public class test1 {
 
-public class test {
-	@Test
-	public void tetsMethod() {
+	public static void main(String[] args) {
 		System.out.println("hbjds");
 		System.out.println();
 		System.out.println("hi");
 	}
-
 }
